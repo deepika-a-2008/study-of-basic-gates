@@ -77,7 +77,7 @@ assign g = ~(a|b);
 assign h = ~(a^b);
 endmodule 
 ```
- Developed by:Deepika A 
+ Developed by:Deepika A
  RegisterNumber:25018166
  
 **Logic symbol & Truthtable**
